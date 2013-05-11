@@ -1,0 +1,4 @@
+This is printf assembler library for AVR from elm-chan.org.
+
+General purpose numeral output module (smaller than printf)
+http://elm-chan.org/cc_e.html
